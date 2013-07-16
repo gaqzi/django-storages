@@ -1,0 +1,12 @@
+THIS IS A MINOR FORK WHICH ADDS THIS PATCH: 
+https://bitbucket.org/david/django-storages/pull-request/65/pass-headers-and-response_headers/diff
+
+===============
+Django storages
+===============
+
+Install
+=======
+
+
+See http://django-storages.readthedocs.org/
